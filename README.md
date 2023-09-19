@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zouhair BARTA</h1>
 <h2 align="center"><b>QA Engineer</b></h2>
 
-<h3><i> Nicknamed by <b>"Hormone of motivation"</b>, 27 years old, laureate of EMSI option MIAGE (Computer methods applied to the management of companies), I believe in continuous learning, hard work, and reading to keep up with the latest technologies that develop my skills and abilities. I could change the world and make it better through my research. </i></h3>
+<h3><i> Nicknamed by <b>"Hormone of motivation"</b>, <a> EMSI alumni (option MIAGE : Computer methods applied to the management of companies) </a>, I believe in continuous learning, hard work, and reading to keep up with the latest technologies that develop my skills and abilities. I could change the world and make it better through my research. </i></h3>
 
 - 🌍 I'm based in **Morocco .**
 
