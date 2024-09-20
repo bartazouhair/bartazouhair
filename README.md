@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Zouhair BARTA</h1>
-<h2 align="center"><b>QA Engineer</b></h2>
+<h2 align="center"><b>Leader en Tests Fonctionnels et Automatisation Confirmé | Consultant et Formateur Selenium | ISTQB® CTFL - Scrum | A4Q® Selenium Tester Certified</b></h2>
 
-<h3><i> Nicknamed by <b>"Hormone of motivation"</b>, <a> EMSI alumni (option MIAGE : Computer methods applied to the management of companies) </a>, I believe in continuous learning, hard work, and reading to keep up with the latest technologies that develop my skills and abilities. I could change the world and make it better through my research. </i></h3>
+<h3><i> Nicknamed by <b>"Hormone of motivation"</b>, <a> EMSI alumni (option MIAGE : Computer methods applied to the management of companies) </a>, I believe in continuous learning, hard work, and reading to keep up with the latest technologies that develop my skills and abilities. I could change the world and make it better through my research.
+  <br>
+As an experienced State QA Engineer, I have accumulated four years of solid expertise in the Quality Assurance (QA) field. Driven by relentless ambition and a constant pursuit of excellence, I am committed to continually expanding my technical skills.
+  <br>
+My career is characterized by unwavering dynamism and a steadfast motivation for collaborative work, qualities that allow me to energize my colleagues with my enthusiasm and passion. I hold certifications in ISTQB Foundation and A4Q Selenium, and I am currently preparing for the ISTQB Agile Tester certification.
+  <br>
+Determined to leverage my expertise in quality assurance, I am ready to tackle cutting-edge and demanding projects. I bring my professional dedication and interpersonal skills to contribute effectively to innovative initiatives and deliver high-quality solutions. </i></h3>
 
 - 🌍 I'm based in **Morocco .**
 
-- 🧠 I’m currently learning **testing (QA) .**
+- 🧠 I am an expert in **Framework Selenium WebDriver .**
 
 - 🤝 I’m looking to collaborate on **charities for children with cancer.**
 
 - 📝 I regularly write articles personal development on [medium.com/@bartazouhair](medium.com/@bartazouhair).
 
-- 💬 Ask me about **All those related to software engineering .**
+- 💬 Ask me about **All those related to software testing engineering (QA) .**
 
 - 📫 You can contact me at **bartazouhair@gmail.com .**
 
