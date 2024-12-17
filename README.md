@@ -1,17 +1,32 @@
 <h1 align="center">Hi 👋, I'm Zouhair BARTA</h1>
 <h2 align="center"><b>Champion Senior QA Engineer | Freelancer | Jira Xray, SQUASH TM | Selenium & Robot Framework Master Trainer | ISTQB® CTFL | A4Q® Selenium Tester | SFPC™ - Scrum® | Green IT Architect Certified</b></h2>
 
-<h3><i> Nicknamed by <b>"Hormone of motivation"</b>, <a> EMSI alumni (option MIAGE : Computer methods applied to the management of companies) </a>, I believe in continuous learning, hard work, and reading to keep up with the latest technologies that develop my skills and abilities. I could change the world and make it better through my research.
-  <br>
-As an experienced State QA Engineer, I have accumulated four years of solid expertise in the Quality Assurance (QA) field. Driven by relentless ambition and a constant pursuit of excellence, I am committed to continually expanding my technical skills.
-  <br>
-My career is characterized by unwavering dynamism and a steadfast motivation for collaborative work, qualities that allow me to energize my colleagues with my enthusiasm and passion. I hold certifications in ISTQB Foundation and A4Q Selenium, and I am currently preparing for the ISTQB Agile Tester certification.
-  <br>
-Determined to leverage my expertise in quality assurance, I am ready to tackle cutting-edge and demanding projects. I bring my professional dedication and interpersonal skills to contribute effectively to innovative initiatives and deliver high-quality solutions. </i></h3>
+<h3>Welcome to my profile! </h3>
+
+I am 𝐁𝐀𝐑𝐓𝐀 𝐙𝐨𝐮𝐡𝐚𝐢𝐫, a motivated and passionate professional in software testing, emerging technologies, and project management.</br>
+
+As an experienced QA Engineer with <b>five years</b> of solid expertise in Quality Assurance, I am driven by an insatiable ambition and a continuous pursuit of excellence, always striving to enhance my technical skills.
+
+My career is defined by unwavering dynamism and relentless motivation for collaborative work, qualities that allow me to inspire my colleagues with energy and enthusiasm. I hold certifications in 𝐈𝐒𝐓𝐐𝐁 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 end 𝐀𝟒𝐐 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 and am currently preparing for the 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐈𝐒𝐓𝐐𝐁 𝐓𝐞𝐬𝐭 𝐀𝐠𝐢𝐥𝐞.
+
+Determined to leverage my expertise in quality assurance, I am ready to take on cutting-edge and demanding projects, bringing my professional commitment and interpersonal skills to contribute effectively to innovative initiatives and deliver high-quality solutions.
+
+<i>"If you have opportunities that could help advance my career, I would be delighted to discuss them with you. Additionally, if you are interested in certifications such as ISTQB Foundation, Selenium A4Q, and ISTQB Agile Tester, I would be happy to guide you."</i>
+
+Thank you for your visit and see you soon.</h3>
 
 - 🌍 I'm based in **Morocco .**
 
-- 🧠 I am an expert in **Framework Selenium WebDriver .**
+- 🧠 I am an expert in **Framework Selenium WebDriver .** and **Framework Robot**
+
+- 🎓 Looking to ace your **ISTQB® certifications?** I offer a comprehensive simulator that covers:
+      <ul>
+        <li>✅ ISTQB Foundation V4 🏆</li>
+        <li>✅ A4Q Selenium Tester 💻</li>
+        <li>✅ ISTQB Agile Tester 🚀</li>
+      </ul>
+
+- 🧑‍🏫 **Looking for a trainer** to help guide you and achieve your certifications quickly and efficiently? I'm here to assist!, Feel free to reach out for personalized guidance and support! 
 
 - 🤝 I’m looking to collaborate on **charities for children with cancer.**
 
