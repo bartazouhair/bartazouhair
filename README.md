@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zouhair BARTA</h1>
-<h2 align="center"><b>Leader en Tests Fonctionnels et Automatisation Confirmé | Consultant et Formateur Selenium | ISTQB® CTFL - Scrum | A4Q® Selenium Tester Certified</b></h2>
+<h2 align="center"><b>Champion Senior QA Engineer | Freelancer | Jira Xray, SQUASH TM | Selenium & Robot Framework Master Trainer | ISTQB® CTFL | A4Q® Selenium Tester | SFPC™ - Scrum® | Green IT Architect Certified</b></h2>
 
 <h3><i> Nicknamed by <b>"Hormone of motivation"</b>, <a> EMSI alumni (option MIAGE : Computer methods applied to the management of companies) </a>, I believe in continuous learning, hard work, and reading to keep up with the latest technologies that develop my skills and abilities. I could change the world and make it better through my research.
   <br>
