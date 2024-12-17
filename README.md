@@ -17,7 +17,7 @@ Thank you for your visit and see you soon.</h3>
 
 - 🌍 I'm based in **Morocco .**
 
-- 🧠 I am an expert in **Framework Selenium WebDriver .** and **Framework Robot**
+- 🧠 I am an expert in **Framework Selenium WebDriver** and **Framework Robot .**
 
 - 🎓 Looking to ace your **ISTQB® certifications?** I offer a comprehensive simulator that covers:
       <ul>
