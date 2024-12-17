@@ -46,14 +46,29 @@ src="https://img.shields.io/twitter/follow/BartaZouhair?logo=twitter&style=for-t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bartazouhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bartazouhair" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zouhair-barta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zouhair-barta" height="30" width="40" /></a>
-<a href="https://fb.com/barta.zouhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barta.zouhair" height="30" width="40" /></a>
-<a href="https://instagram.com/zouhairbarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zouhairbarta" height="30" width="40" /></a>
-<a href="https://medium.com/@zouhairbarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zouhairbarta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@bartazouhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bartazouhair" height="30" width="40" /></a>
-<a href="https://github.com/bartazouhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bartazouhair" height="30" width="40" /></a>
+  <a href="https://twitter.com/bartazouhair" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bartazouhair" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/zouhair-barta" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zouhair-barta" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/barta.zouhair" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="barta.zouhair" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/zouhairbarta" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zouhairbarta" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@bartazouhair" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bartazouhair" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@bartazouhair" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bartazouhair" height="30" width="40" />
+  </a>
+  <a href="https://github.com/bartazouhair" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bartazouhair" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
