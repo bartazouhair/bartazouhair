@@ -9,6 +9,8 @@ As an experienced QA Engineer with <b>five years</b> of solid expertise in Quali
 
 My career is defined by unwavering dynamism and relentless motivation for collaborative work, qualities that allow me to inspire my colleagues with energy and enthusiasm. I hold certifications in 𝐈𝐒𝐓𝐐𝐁 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 end 𝐀𝟒𝐐 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 and am currently preparing for the 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐈𝐒𝐓𝐐𝐁 𝐓𝐞𝐬𝐭 𝐀𝐠𝐢𝐥𝐞.
 
+I'm also proficient in 𝗥𝗼𝗯𝗼𝘁 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 and 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗗𝗿𝗶𝘃𝗲𝗿 for test automation, as well as functional test management tools such as 𝗫𝗿𝗮𝘆, 𝗦𝗾𝘂𝗮𝘀𝗵-𝗧𝗠, 𝗧𝗲𝘀𝘁𝗥𝗮𝗶𝗹, 𝗲𝘁 𝗭𝗲𝗽𝗵𝘆𝗿 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲, which I use professionally and effectively in a variety of environments.
+
 Determined to leverage my expertise in quality assurance, I am ready to take on cutting-edge and demanding projects, bringing my professional commitment and interpersonal skills to contribute effectively to innovative initiatives and deliver high-quality solutions.
 
 <i>"If you have opportunities that could help advance my career, I would be delighted to discuss them with you. Additionally, if you are interested in certifications such as ISTQB Foundation, Selenium A4Q, and ISTQB Agile Tester, I would be happy to guide you."</i>
