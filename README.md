@@ -7,7 +7,7 @@ I am 𝐁𝐀𝐑𝐓𝐀 𝐙𝐨𝐮𝐡𝐚𝐢𝐫, a motivated and passiona
 
 As an experienced QA Engineer with <b>five years</b> of solid expertise in Quality Assurance, I am driven by an insatiable ambition and a continuous pursuit of excellence, always striving to enhance my technical skills.
 
-My career is defined by unwavering dynamism and relentless motivation for collaborative work, qualities that allow me to inspire my colleagues with energy and enthusiasm. I hold certifications in 𝐈𝐒𝐓𝐐𝐁 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 end 𝐀𝟒𝐐 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 and am currently preparing for the 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐈𝐒𝐓𝐐𝐁 𝐓𝐞𝐬𝐭 𝐀𝐠𝐢𝐥𝐞.
+My career is defined by unwavering dynamism and relentless motivation for collaborative work, qualities that allow me to inspire my colleagues with energy and enthusiasm. I hold certifications in 𝐈𝐒𝐓𝐐𝐁 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 end 𝐀𝟒𝐐 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 and 𝐜𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐈𝐒𝐓𝐐𝐁 𝐓𝐞𝐬𝐭 𝐀𝐠𝐢𝐥𝐞.
 
 I'm also proficient in 𝗥𝗼𝗯𝗼𝘁 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 and 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗪𝗲𝗯𝗗𝗿𝗶𝘃𝗲𝗿 for test automation, as well as functional test management tools such as 𝗫𝗿𝗮𝘆, 𝗦𝗾𝘂𝗮𝘀𝗵-𝗧𝗠, 𝗧𝗲𝘀𝘁𝗥𝗮𝗶𝗹, 𝗲𝘁 𝗭𝗲𝗽𝗵𝘆𝗿 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲, which I use professionally and effectively in a variety of environments.
 
@@ -21,7 +21,7 @@ Thank you for your visit and see you soon.</h3>
 
 - 🧠 I am an expert in **Framework Selenium WebDriver** and **Framework Robot .**
 
-- 🔭 I’m currently working **on Playwright content.**
+- 🔭 I’m currently working **on learning Playwright.**
 
 - 🎓 Looking to ace your **ISTQB® certifications?** I offer a comprehensive simulator that covers:
       <ul>
