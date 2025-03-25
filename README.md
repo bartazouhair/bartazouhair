@@ -21,6 +21,8 @@ Thank you for your visit and see you soon.</h3>
 
 - 🧠 I am an expert in **Framework Selenium WebDriver** and **Framework Robot .**
 
+- 🔭 I’m currently working **on Playwright content.**
+
 - 🎓 Looking to ace your **ISTQB® certifications?** I offer a comprehensive simulator that covers:
       <ul>
         <li>✅ ISTQB Foundation V4 🏆</li>
